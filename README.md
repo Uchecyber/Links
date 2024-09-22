@@ -17,4 +17,4 @@
 # Experiments
   * :woman: :sweat_drops: :angry: :zzz: :sleepy: :couple: :+1: :see_no_evil:
 :nail_care: :princess: :kiss: :tongue: :dancers: :muscle: :clap: :punch: :hand:
-:fire: :question: :anger: :-1: :punch: :cupid: :heart: :laptop: 
+:fire: :question: :anger: :-1: :punch: :cupid: :heart:  
