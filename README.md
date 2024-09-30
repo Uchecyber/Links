@@ -18,3 +18,14 @@
   * :woman: :sweat_drops: :angry: :zzz: :sleepy: :couple: :+1: :see_no_evil:
 :nail_care: :princess: :kiss: :tongue: :dancers: :muscle: :clap: :punch: :hand:
 :fire: :question: :anger: :-1: :punch: :cupid: :heart:  
+# Keyboard Shortcuts
+Shortcuts I frequently use: 
+* Ctrl-C (copy)             * Ctrl-V (Paste)
+* Ctrl-Z (Undo)             * Ctrl-F (Find)
+* Ctrl-A (Select all)
+# Keyboard Shortcuts i will like to use
+* Ctrl-P (Print)   * Ctrl-B (Make selected text Bold) 
+* Ctrl-X (Cut)     * Ctrl D (Make a duplicate of selected text)
+* Ctrl-T (Cut)     * Ctrl-Y (Redo)
+* Ctrl-I (Italize) * Ctrl-R (Refresh page)
+* Ctrl-S (Save)    * Ctrl-O (Open)
