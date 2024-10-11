@@ -12,6 +12,7 @@
 * _ underscore
 * \+ plus, addition
 # Links
+[CLI commands](docs/cli.md)
   * **[George brown D2L]** (https://learn.georgebrown.ca/d2l/home)
   * **[COMP1234 Home Page]** (https://learn.georgebrown.ca/d2l/home/295165)
 # Experiments
