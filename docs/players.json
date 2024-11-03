@@ -1,7 +1,7 @@
 [
     {
         "name": "lebron james",
-        "Sport": "basketball,",
+        "Sport": "basketball,", 
         "Team name": "lakers",
         "Team city": "los angeles",
         "position": "forward",
@@ -16,12 +16,12 @@
         "Age": 36
     },
     {
-        "name": "selena williams",
-        "sport": "tennis",
-        "Team name": "N/A",
-        "Team city": "N/A",
-        "position": "player",
-        "Age": 41
+        "name": "selena williams", // string
+        "sport": "tennis",// string
+        "Team name": "N/A",// null
+        "Team city": "N/A",  // null
+        "position": "player", // string
+        "Age": 41 // number
     },
     {
         "name": "tom brady",
