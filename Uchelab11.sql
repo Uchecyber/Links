@@ -1,5 +1,7 @@
 ---Assignments for a Specific Course---
 SELECT title, due_date FROM assignments WHERE course_id = 'COMP1234';
+---Earliest Assignment Due Date---
+SELECT * FROM assignments WHERE due_date ='2024-09-10';
 ---Latest Assignment Due Date---
 SELECT * FROM assignments where due_date = '2025-03-20';
 ---Assignments Due on a Specific Date---
